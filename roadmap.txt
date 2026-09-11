@@ -1,0 +1,34 @@
+python-learning-journey/
+│
+├── README.md
+│
+├── 01_basics/
+│   ├── calculator.py
+│   ├── even_odd.py
+│   ├── positive_negative.py
+│   ├── largest_of_three.py
+│   ├── grade_calculator.py
+│   ├── multiplication_table.py
+│   ├── sum_numbers.py
+│   ├── factorial.py
+│   ├── count_digits.py
+│   └── reverse_number.py
+│
+├── 02_lists_strings/
+│   ├── largest_in_list.py
+│   ├── second_largest.py
+│   ├── remove_duplicates.py
+│   ├── even_odd_count.py
+│   ├── reverse_string.py
+│   ├── vowel_count.py
+│   ├── palindrome.py
+│   ├── character_frequency.py
+│   ├── common_elements.py
+│   └── word_counter.py
+│
+└── 03_projects/
+    ├── cli_calculator/
+    ├── number_guessing_game/
+    ├── student_grade_manager/
+    ├── expense_tracker/
+    └── contact_book/
