@@ -3,9 +3,9 @@ python-learning-journey/
 ├── README.md
 │
 ├── 01_basics/
-│   ├── calculator.py
-│   ├── even_odd.py
-│   ├── positive_negative.py
+│   ├── calculator.py  --> Done
+│   ├── even_odd.py   --> Done
+│   ├── positive_negative.py  --> Done
 │   ├── largest_of_three.py
 │   ├── grade_calculator.py
 │   ├── multiplication_table.py
@@ -15,7 +15,7 @@ python-learning-journey/
 │   └── reverse_number.py
 │
 ├── 02_lists_strings/
-│   ├── largest_in_list.py
+│   ├── largest_in_list.py  --> Done
 │   ├── second_largest.py
 │   ├── remove_duplicates.py
 │   ├── even_odd_count.py
