@@ -8,7 +8,10 @@ else:
 
 #check if a number is even or odd using the inut method
 getNum = int(input("Enter a number to check if it is even or odd: "))
-if getNum % 2 == 0:
+
+if getNum == 0:
+    print("Please enter a number greater than 0")
+elif getNum % 2 == 0:
     print(getNum, "is an even number")
 else:
     print(getNum, "is an odd number")
