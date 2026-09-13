@@ -14,3 +14,11 @@ elif getNum > 0:
     print(getNum, "is a Positive number")
 else:
     print(getNum, "is a Negative number")
+
+#finding positive and negative numbers from the list
+lst = [3,5,-7,2,-7,1,9,-4]
+for num in lst:
+    if num > 0:
+        print(num, "is a Positive number")
+    else:
+        print(num, "is a Negative number")
