@@ -19,7 +19,7 @@ python-learning-journey/
 │   ├── second_largest.py    --> Done
 │   ├── remove_duplicates.py
 │   ├── even_odd_count.py
-│   ├── reverse_string.py
+│   ├── reverse_string.py  --> Done
 │   ├── vowel_count.py
 │   ├── palindrome.py
 │   ├── character_frequency.py
