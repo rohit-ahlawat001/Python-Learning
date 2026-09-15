@@ -13,3 +13,11 @@ elif inputNum % 2 == 0:
     print(f"{inputNum} is an even number")
 else:
     print(f"{inputNum} is an odd number")
+
+#finding the even and odd numbers in the list
+numList = [1,2,3,4,5,6,7,8,9]
+for num in numList:
+    if num % 2 == 0:
+        print(f"{num} is an even number")
+    else:
+        print(f"{num} is an odd number")
