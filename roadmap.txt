@@ -7,7 +7,7 @@ python-learning-journey/
 │   ├── even_odd.py   --> Done
 │   ├── positive_negative.py  --> Done
 │   ├── largest_of_three.py
-│   ├── grade_calculator.py
+│   ├── grade_calculator.py 
 │   ├── multiplication_table.py
 │   ├── sum_numbers.py
 │   ├── factorial.py
@@ -18,9 +18,9 @@ python-learning-journey/
 │   ├── largest_in_list.py  --> Done
 │   ├── second_largest.py    --> Done
 │   ├── remove_duplicates.py
-│   ├── even_odd_count.py
+│   ├── even_odd_count.py   --> Done
 │   ├── reverse_string.py  --> Done
-│   ├── vowel_count.py
+│   ├── vowel_count.py 
 │   ├── palindrome.py
 │   ├── character_frequency.py
 │   ├── common_elements.py
