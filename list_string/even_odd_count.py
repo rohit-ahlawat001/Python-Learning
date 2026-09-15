@@ -7,8 +7,8 @@ else:
 
 # Checking the number even or the odd with the user input
 inputNum = int(input("Enter a number: "))
-if inputNum == 0:
-    print(f"{inputNum} is neither even nor odd")
+if inputNum == 0 or inputNum < 0:
+    print(f"{inputNum} is neither even nor odd kindly enter a valid number")
 elif inputNum % 2 == 0:
     print(f"{inputNum} is an even number")
 else:
