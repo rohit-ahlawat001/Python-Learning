@@ -20,7 +20,7 @@ python-learning-journey/
 │   ├── remove_duplicates.py
 │   ├── even_odd_count.py   --> Done
 │   ├── reverse_string.py  --> Done
-│   ├── vowel_count.py 
+│   ├── vowel_count.py   --> Done
 │   ├── palindrome.py
 │   ├── character_frequency.py
 │   ├── common_elements.py
