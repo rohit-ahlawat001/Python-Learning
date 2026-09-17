@@ -21,7 +21,7 @@ python-learning-journey/
 │   ├── even_odd_count.py   --> Done
 │   ├── reverse_string.py  --> Done
 │   ├── vowel_count.py   --> Done
-│   ├── palindrome.py
+│   ├── palindrome.py  --> Done
 │   ├── character_frequency.py
 │   ├── common_elements.py
 │   └── word_counter.py
