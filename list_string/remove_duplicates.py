@@ -4,5 +4,6 @@ strName = "swiss"
 unique = ""
 for items in strName:
     # print(items)
-    if items in unique:
-        print(unique, "uniquw num")
+    if items not in unique:
+        unique += items
+print("Unique characters:", unique)
