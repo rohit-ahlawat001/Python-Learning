@@ -17,7 +17,7 @@ python-learning-journey/
 ├── 02_lists_strings/
 │   ├── largest_in_list.py  --> Done
 │   ├── second_largest.py    --> Done
-│   ├── remove_duplicates.py
+│   ├── remove_duplicates.py -> Done
 │   ├── even_odd_count.py   --> Done
 │   ├── reverse_string.py  --> Done
 │   ├── vowel_count.py   --> Done
