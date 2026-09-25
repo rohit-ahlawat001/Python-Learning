@@ -7,7 +7,7 @@ python-learning-journey/
 │   ├── even_odd.py   --> Done
 │   ├── positive_negative.py  --> Done
 │   ├── largest_of_three.py --> Done
-│   ├── grade_calculator.py 
+│   ├── grade_calculator.py --> Done
 │   ├── multiplication_table.py
 │   ├── sum_numbers.py
 │   ├── factorial.py
